@@ -1,0 +1,13 @@
+Objetivo
+
+Criar uma API restiful  para controle de produtos
+
+Modelo:ok
+   Produto: id, nome, quantidade, valor, observacao
+
+Repositório de produto:ok
+    ObterTodos, obterPorId, cadastrar/adicionar, atualizar, deletar.
+
+
+
+
